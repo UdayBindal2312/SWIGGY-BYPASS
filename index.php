@@ -95,16 +95,14 @@ hr {
 <br>
 <br>
 <br>
+
 <center>
-<form method='get' action='https://techssing.com/sw/'>
-
-<br><Div>
-<input type='number' class='text'name='num' placeholder='Enter Registered Number' required>
-<input type='hidden' value='a3'name='bc'>
-<input type='submit' class='submit' name='submit' value='Submit'>
-<br></form>
+<form action='https://techssing.com/sw/' method="GET">
+<div class="input">
+<input type="text" name="mo" class="text" placeholder="Enter Swiggy Number" required />
+</div>
+<button type="submit" class="submit" value="SUBMIT" name="submit">Send OTP</button></form>
 </center>
-
 <hr>
 <br>
 <br>
